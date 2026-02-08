@@ -836,8 +836,8 @@ export const EXAM_DATA_99 = [
 ];
 
 export const EXAM_VERSIONS = {
-  '98': { title: "98_2507", data: EXAM_DATA_98, color: 'teal' },
-  '99': { title: "99_2508", data: EXAM_DATA_99, color: 'orange' }
+  '98': { title: "98th2507", data: EXAM_DATA_98, color: 'teal' },
+  '99': { title: "99th2508", data: EXAM_DATA_99, color: 'orange' }
 };
 
 export const THEME_CONFIG = {
