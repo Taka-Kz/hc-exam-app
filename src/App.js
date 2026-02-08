@@ -287,7 +287,7 @@ const Header = ({ mode, theme, timeLeft, handleFinishButton, toggleExamVersion, 
       <div className="flex items-center space-x-2 w-full md:w-auto justify-between md:justify-start">
         <div className="flex items-center space-x-2">
             <Award size={24} />
-            <h1 className="font-bold text-lg md:text-xl">HC検定3級対策</h1>
+            <h1 className="font-bold text-lg md:text-xl">HC mock exam</h1>
         </div>
       </div>
         
